@@ -3,11 +3,11 @@ version: 0.0.1
 
 authors:
   - Hao Wu
-  - Feliks Nüske
+  - Feliks Nueske
   - Josh Fass
   - Jan-Hendrik Prinz
   - Fabian Paul
-  - Frank Noé
+  - Frank Noe
 
 emails:
   - jan.prinz@gmx.de,
@@ -34,8 +34,8 @@ classifiers: |
   Operating System :: Unix
   Operating System :: MacOS
 
-download_url: http://github.com/openpathsampling/openpathsampling
-url: http://www.openpathsampling.org
+download_url: http://github.com/markovmodel/msm-theory-sandbox
+url: http://github.com/markovmodel/msm-theory-sandbox
 
 packages:
   - msmsandbox
