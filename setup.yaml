@@ -1,0 +1,68 @@
+name: msm-theory-sandbox
+version: 0.0.1
+
+authors:
+  - Hao Wu
+  - Feliks Nüske
+  - Josh Fass
+  - Jan-Hendrik Prinz
+  - Fabian Paul
+  - Frank Noé
+
+emails:
+  - jan.prinz@gmx.de,
+  - josh.fass@choderalab.org
+
+description: 'A collection of examples and tools for the exploration of MSM theory.'
+
+long_description: |
+  A collection of examples and tools for the exploration of MSM theory.
+
+classifiers: |
+  Development Status :: 3 - Alpha
+  Intended Audience :: Science/Research
+  Intended Audience :: Developers
+  License :: OSI Approved :: GNU Lesser General
+  Public License v2.1 or later (LGPLv2.1+)
+  Programming Language :: C
+  Programming Language :: Python
+  Programming Language :: Python :: 2
+  Topic :: Scientific/Engineering :: Bio-Informatics
+  Topic :: Scientific/Engineering :: Chemistry
+  Operating System :: Microsoft :: Windows
+  Operating System :: POSIX
+  Operating System :: Unix
+  Operating System :: MacOS
+
+download_url: http://github.com/openpathsampling/openpathsampling
+url: http://www.openpathsampling.org
+
+packages:
+  - msmsandbox
+
+platforms:
+  - Linux
+  - Mac OS X
+  - Windows
+
+released: false
+
+requires:
+  - python
+  - numpy
+  - scipy
+  - pandas
+  - openmm
+  - openmmtools
+  - pymbar
+  - docopt
+  - pyyaml
+  - mdtraj
+  - svgwrite
+  - matplotlib
+  - ujson
+  - pyemma
+  - msmtools
+
+license: LGPL 2.1 or later
+license_file: LICENSE
